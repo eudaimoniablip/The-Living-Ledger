@@ -695,7 +695,7 @@ OSeven looked at his hands. They were still shaking, but the shaking was differe
 
 OSeven stood up. He wiped the rain from his face. "I have a suit," OSeven said. "And I have an appointment."
 
-Chapter 9: The Invisible Man
+## Chapter 9: The Invisible Man
 They did not use a high-tech disguise. They did not hack the facial recognition software. They did not rappel down the elevator shaft.
 
 The Null simply put on a jumpsuit.
