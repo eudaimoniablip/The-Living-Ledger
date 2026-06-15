@@ -1,3 +1,4 @@
+![The Living Ledger Cover](Gemini_Generated_Image_ji1isvji1isvji1i.png)
 # The Living Ledger
 
 **By: Glaurious!**
