@@ -355,7 +355,8 @@ OSeven stared at the flake. He checked his weather app.
 
 "The app listens to the machine," The Null said, watching the snow fall into the abyss. "The knee listens to the world." The Null looked back at OSeven. "If you want to insure me, Adjuster, you have to figure out the cost of my knee. Can your Algorithm do that?"
 
-Chapter 5: The Unlicensed Room
+## Chapter 5: The Unlicensed Room
+
 The Null lived in a box. It was not a standard-issue Housing Unit. It was a room hidden behind the pipes of the plant, where the warmth from the machinery leaked through the walls.
 
 OSeven stepped inside and immediately stopped breathing. He switched to his internal oxygen reserve. The air in the room was thick with dust, old paper, and the smell of dried herbs.
