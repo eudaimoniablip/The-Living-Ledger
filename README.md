@@ -1,38 +1,79 @@
-Living Ledger
-By: Glaurious! (LSO)
+# The Living Ledger
 
-Prologue
+**By: Glaurious!**
+
+---
+
+## Contents
+* [Prologue](#prologue)
+* [Chapter 1: The Blank Slate](#chapter-1-the-blank-slate)
+* [Chapter 2: The Zone of Negligence](#chapter-2-the-zone-of-negligence)
+* [Chapter 3: The Language of Liability](#chapter-3-the-language-of-liability)
+* [Chapter 4: The View from the Edge](#chapter-4-the-view-from-the-edge)
+* [Chapter 5: The Unlicensed Room](#chapter-5-the-unlicensed-room)
+* [Chapter 6: The Crash and the Query](#chapter-6-the-crash-and-the-query)
+* [Chapter 7: The Calibration](#chapter-7-the-calibration)
+* [Chapter 8: The Defector](#chapter-8-the-defector)
+* [Chapter 9: The Invisible Man](#chapter-9-the-invisible-man)
+* [Chapter 10: The Audit](#chapter-10-the-audit)
+* [Chapter 11: The Undefined Variable](#chapter-11-the-undefined-variable)
+* [Epilogue: The Reboot](#epilogue-the-reboot)
+
+---
+
+## Prologue
 
 The Actuarial Hub was the tallest building in the Sprawl. It was white and smooth, like a polished bone, rising up out of the gray fog where the ordinary people lived. While the streets below were filled with the noise of steam-pipes and the shouting of vendors selling second-hand oxygen, the Hub was silent. It was a place of serious work.
+
 Inside, the air was scrubbed clean and smelled of ozone and receipts. Here, the Adjusters sat in long rows that stretched as far as the eye could see. They were not men and women; they were units wearing unremarkable smiles and suits of the same gray cloth, and they tapped upon screens that glowed with a soft, green light.
+
 The Adjusters were happy. They were happy because they were safe. They knew that outside the glass walls, the world was a chaotic place full of falling bricks, crashing hover-cars, and sudden fevers. But inside, there was The Algorithm. The Algorithm was big and warm, and it lived in the basement servers, humming a tune that never stopped.
+
 The Algorithm knew everything. It knew how many steps a man could take before his knee gave out. It knew how much smoke a woman could breathe before her lungs turned black. It knew the price of a finger, the cost of a memory, and the value of a heartbeat.
+
 On the far wall of the main hall, projected in letters of light ten feet high, were the Five Statutes of Stability. Every Adjuster looked at them before they began their shift, and felt a swell of pride.
-'''Life is a Risk; Coverage is the Cure.
-The Algorithm is Blind.
-A Premium Paid is a Safety Guaranteed.
-No Citizen Shall Be Denied Based on Chance.
-The Bureau Serves the Living.
-'''
+
+> ### The Five Statutes of Stability
+> 1. Life is a Risk; Coverage is the Cure.
+> 2. The Algorithm is Blind.
+> 3. A Premium Paid is a Safety Guaranteed.
+> 4. No Citizen Shall Be Denied Based on Chance.
+> 5. The Bureau Serves the Living.
+
 Unit OSeven sat at his desk in row four-hundred. He was a diligent worker. He did not look out the window at the neon rain. He looked only at his screen.
+
 A file appeared. It was a claim for a citizen named J-44. The citizen had slipped on a patch of oil and broken his wrist.
+
 OSeven looked at the data. He saw that J-44 had bought the "Basic Walker’s Insurance." He also saw that J-44 had been walking at a pace of five kilometers per hour.
-OSeven did the math. The Basic Policy only covered walking speeds up to four kilometers per hour. By walking fast, J-44 had engaged in 'Reckless Velocity.'
-OSeven felt a sense of calm duty. He typed the code for DENIED.
+
+OSeven did the math. The Basic Policy only covered walking speeds up to four kilometers per hour. By walking fast, J-44 had engaged in "Reckless Velocity."
+
+OSeven felt a sense of calm duty. He typed the code for `DENIED`.
+
 It was not cruel. It was correct. If the Bureau paid for reckless walkers, the Bureau would lose credits. If the Bureau lost credits, the Algorithm would starve. And if the Algorithm starved, who would tell the people how to live safely?
+
 OSeven pressed the enter key. Somewhere in the gray fog below, a man’s credit chip turned red, and the medical cast on his arm unlocked and fell off.
+
 OSeven smiled. The numbers were balanced. The system worked. It was a good day to be an Adjuster.
+
 ---
-Chapter 1: The Blank Slate
+
+## Chapter 1: The Blank Slate
 
 The morning passed in a comfortable blur of gray. OSeven processed four hundred claims. He denied coverage for a woman who coughed too loudly in a public zone (Noise Pollution Hazard), and he increased the premiums for a family that bought a second-hand heater (Fire Risk Probability: High).
+
 At twelve hundred hours, the bells chimed for the Nutrient Break. OSeven opened his drawer and took out his ration bar. It was flavorless and beige. OSeven liked it. Flavor was a distraction. Flavor caused excitement, and excitement raised the blood pressure, which was bad for one’s Personal Health Score. In turn, made premiums rise.
+
 Just as he finished his last bite, his screen did something it had never done before. It did not flash green. It did not flash red. It went completely black.
+
 A single line of white text appeared in the center:
-'''REPORT TO LEVEL 99.
-'''
+
+```text
+REPORT TO LEVEL 99.
+
 The other Adjusters stopped chewing. They looked at OSeven. To go to Level 99 was rare. It meant you were in trouble, or you were about to be given a task that the Algorithm could not solve itself.
-OSeven stood up. He smoothed the wrinkles from his gray suit and headed towards the elevators. As he not-to-swiftly walked past he rechecked the glowing 'Five Statuses of Stability' that bathed the room in the soft green light to give him contentment. 
+OSeven stood up. He smoothed the wrinkles from his gray suit and headed towards the elevators. As he not-to-swiftly walked past he rechecked the glowing 'Five Statuses of Stability' that bathed the room in the soft green light to give him contentment.
+
 '''Life is a Risk; Coverage is the Cost.
 The Algorithm is Blind to Suffering.
 A Premium Paid is a Liability Guaranteed.
