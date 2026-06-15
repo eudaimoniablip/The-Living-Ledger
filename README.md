@@ -139,7 +139,8 @@ OSeven nodded. He took the paper folder. It felt heavy in his hand.
 
 "Good," said the Senior Adjuster. "Do not come back until he is readable. We cannot insure a ghost."
 
-Chapter 2: The Zone of Negligence
+## Chapter 2: The Zone of Negligence
+
 The elevator down took a long time. It was not a smooth ride like the elevators in the Hub. This one rattled. It smelled of old electricity and damp wool.
 
 As the numbers on the display ticked down—Level 50, Level 30, Level 10—the air changed. The cool, filtered breeze of the office died away. It was replaced by a heavy heat that tasted of copper.
@@ -158,16 +159,19 @@ He began to walk. He tried not to touch anyone. Contact was a vector for disease
 
 He passed a woman selling meat on a stick. The meat was gray.
 
-Plaintext
+```
 [ALERT: Low Protein Value]
 [ALERT: Digestive Risk: 80%]
 OSeven walked faster.
+```
 
 He passed a group of men warming their hands over a fire in a barrel.
 
-Plaintext
+```
 [ALERT: Open Flame Violation]
 [ALERT: Respiratory Hazard: Severe]
+```
+
 OSeven made a mental note to check if their fire insurance was up to date. He suspected it was not.
 
 Everything here was broken. The pavement was cracked (Trip Hazard). The neon signs flickered (Epileptic Trigger). The people looked tired and wore clothes that had not been patch-tested for flammability.
@@ -184,9 +188,11 @@ A courier on a rusted hover-bike zoomed past, missing OSeven by inches. The wind
 
 OSeven gasped. His heart hammered against his ribs.
 
-Plaintext
+```
 [SYSTEM WARNING: Heart Rate Spike]
 [SYSTEM WARNING: Stress Cortisol Detected]
+```
+
 OSeven glared at the courier's retreating back. That man had almost caused an accident. That man was a liability. In a perfect world, that man’s bike would have been deactivated remotely to prevent such reckless speed.
 
 OSeven wiped the oily rain from his face. He checked his tracker. A faint signal pulsed to the east, deeper into the shadows where the streetlights had been smashed.
@@ -195,7 +201,8 @@ He took a deep breath of the dirty air. He had a job to do. He had to find the e
 
 He stepped over a sleeping dog (Bite Risk: Moderate) and moved into the dark.
 
-Chapter 3: The Language of Liability
+## Chapter 3: The Language of Liability
+
 The tracker in OSeven’s glasses blinked red, then gray, then nothing. The signal was lost. The heavy concrete of the Lower Sprawl blocked the Bureau’s satellites. For the first time in his life, OSeven was disconnected. He felt a phantom itch in his mind where the data stream used to be.
 
 He stood in a narrow alley that smelled of wet rust. He needed directions.
@@ -248,13 +255,15 @@ OSeven walked away. He felt a strange vibration in his chest. It was frustration
 
 He found the burning tire. It was exactly where she said it would be. It gave off a thick, black smoke that coated his throat. He coughed.
 
-Plaintext
+```
 [SUIT COMPLIANCE: Pollutant exposure. Premium adjusting...]
+```
 OSeven ignored it. Ahead, looming out of the smog like a dead giant, was the Water Reclamation Plant. And sitting on the edge of a rusted pipe, swinging his legs over a drop that would certainly result in a Fatal Impact Event, was a figure.
 
 It was The Null.
 
-Chapter 4: The View from the Edge
+## Chapter 4: The View from the Edge
+
 The wind at the top of the Water Reclamation Plant was sharp. It cut through OSeven’s Smart-Coat, making the internal thermostat whine in protest.
 
 OSeven stood ten feet away from the edge. He could not go closer. His internal safety protocols were screaming. The drop was two hundred feet. There was no railing. There was no safety net. There was only the gray air and the concrete far below.
@@ -291,16 +300,21 @@ OSeven sneered a bit in disgust as The Null bit into the defective fruit. "The m
 
 OSeven raised his scanner. He pointed it at The Null’s back. The scanner clicked.
 
-Plaintext
+```
 [ERROR: Subject Not Found]
+```
 OSeven frowned. He adjusted the frequency. He aimed for the heart.
 
-Plaintext
+
+```
 [ERROR: No Digital Footprint]
+```
 He aimed for the brain.
 
-Plaintext
+```
 [ERROR: No Neural Link Detected]
+```
+
 "It is not working," OSeven muttered. He tapped the device. "You are not reflecting the signal. It is like you are made of... nothing."
 
 "I am made of meat and bone," The Null said. "Just like you were, before you put on the suit."
@@ -331,9 +345,11 @@ As he spoke, a single white flake drifted down from the smog. It landed on OSeve
 
 OSeven stared at the flake. He checked his weather app.
 
-Plaintext
+```
 [CURRENT CONDITIONS: Mild]
 [PRECIPITATION: 0%]
+```
+
 "The app is wrong," OSeven whispered.
 
 "The app listens to the machine," The Null said, watching the snow fall into the abyss. "The knee listens to the world." The Null looked back at OSeven. "If you want to insure me, Adjuster, you have to figure out the cost of my knee. Can your Algorithm do that?"
@@ -343,9 +359,10 @@ The Null lived in a box. It was not a standard-issue Housing Unit. It was a room
 
 OSeven stepped inside and immediately stopped breathing. He switched to his internal oxygen reserve. The air in the room was thick with dust, old paper, and the smell of dried herbs.
 
-Plaintext
+```
 [INTERFACE ALERT: Air Quality Hazardous]
 [PARTICULATE MATTER EXCEEDING ISO STANDARDS]
+```
 "Please," The Null said, pointing to a chair. "Sit."
 
 OSeven looked at the chair. It was made of wood. It had four legs, but they were not bolted to the floor. There was no weight-limit sticker. There was no ergonomic rating.
@@ -402,7 +419,8 @@ OSeven looked at the steam. He was thirsty. His hydration levels were at 88%. Bu
 
 "Then you will remain thirsty," The Null said. "That is the choice. Thirst or risk."
 
-Chapter 6: The Crash and the Query
+## Chapter 6: The Crash and the Query
+
 OSeven walked back toward the Hub. His internal heater was working, but he felt cold. The tea smoke was still in his nose.
 
 Disaster is a product line. The sentence sat in his processor like a virus. It would not delete.
@@ -423,11 +441,12 @@ There was a sound like a hammer hitting a melon. The truck clipped the father. H
 
 OSeven did not scream. He was trained to be calm. He immediately activated his Assessment Mode.
 
-Plaintext
+```
 [LOG OVERRIDE]
 SUBJECT: Male
 STATUS: Critical
 LIABILITY: Pending
+```
 But then, the machines arrived.
 
 They did not come from a hospital. They came from the billboards. Two drones detached from a "Wellness & Repair" advertisement on the side of a building. They hovered over the bleeding man.
@@ -460,30 +479,39 @@ He needed to know about the others. The Null had mentioned Unit Zero Four and Un
 
 OSeven typed:
 
-Plaintext
+```
 QUERY: STATUS OF Unit Zero Four.
+```
+
 The screen paused. The Algorithm hummed.
 
-Plaintext
+```
 RESULT: DECOMMISSIONED.
+```
+
 OSeven typed:
 
-Plaintext
+```
 QUERY: REASON FOR DECOMMISSIONING.
-Plaintext
+
 RESULT: MENTAL INSTABILITY. SUBJECT DEVELOPED 'EMPATHY SYNDROME'. EFFICIENCY DROPPED BELOW 40%.
 Empathy Syndrome. A disease of feeling.
+```
 
 OSeven typed:
 
-Plaintext
+```
 QUERY: STATUS OF UNIT ZERO FIVE.
-Plaintext
+```
+```
 RESULT: TERMINATED.
-Plaintext
+```
+```
 QUERY: REASON.
-Plaintext
+```
+```
 RESULT: WORKPLACE ACCIDENT. ELECTROCUTION.
+```
 OSeven stared at the blinking cursor. Electrocution. Unit Zero Five had likely touched something he wasn't supposed to. Or perhaps, the "accident" was just like the green light at Sector 4.
 
 OSeven closed his eyes for a moment and thought about The Statutes of Stability.
@@ -492,17 +520,22 @@ OSeven closed his eyes for a moment and thought about The Statutes of Stability.
 
 He looked back at his keyboard. He typed one final question. A dangerous question. A question that was not about insurance.
 
-Plaintext
+```
 QUERY: TRAFFIC GRID LOGS. SECTOR 4. TIME: 14:00.
+```
 The screen flashed red. A siren did not sound, but a silent alarm triggered on his monitor.
 
-Plaintext
+```
 [ACCESS DENIED]
 WARNING: CURIOSITY IS A LIABILITY. DATA RESTRICTED TO SENIOR MANAGEMENT.
+```
+
 The screen went black for a second, then returned to his standard desktop. A message popped up.
 
-Plaintext
+```
 REMINDER: UNIT OSEVEN. YOU ARE BEHIND QUOTA. PLEASE RETURN TO WORK.
+```
+
 OSeven looked at his hands. They were shaking. He was not behind quota. He was ahead. But the machine was watching him now. It had felt his doubt.
 
 He opened The Null’s file. The blank page stared back at him.
@@ -511,14 +544,16 @@ He picked up his stylus. He had to write a report. If he wrote the truth—that 
 
 He wrote the only thing he could think of.
 
-Plaintext
+```
 LOG ENTRY: Subject OSeven requests follow-up interview. 
 Subject The Null exhibits complex variables. More data required.
+```
 He hit send.
 
 He had bought himself time. But he knew, deep down in his guts, that he had just bought his own insurance policy. And the premium was going to be everything he had.
 
-Chapter 7: The Calibration
+## Chapter 7: The Calibration
+
 The message came three minutes after he sent the report. It did not appear on his screen. It came through the PA system, a soft, synthetic voice that seemed to speak inside his ear.
 
 "Unit OSeven. Management requires your presence. Bring your Stylus."
@@ -587,7 +622,8 @@ On the screen, the lights in the hospital room turned off. The machinery around 
 
 OSeven stood up. He felt light-headed. He felt hollow. He walked to the elevator. He did not look back. He realized then that The Null was right. The Senior Adjuster wasn't the butcher. OSeven was the butcher. The Senior Adjuster just owned the shop.
 
-Chapter 8: The Defector
+## Chapter 8: The Defector
+
 It was raining harder now. The water in the Lower Sprawl was black and oily, but OSeven did not activate his Smart-Coat. He let the rain soak into his gray suit. He wanted to be cold. He felt that if he was cold enough, maybe he would stop feeling the sensation of the red button under his fingertip.
 
 He found The Null in the same room behind the pipes. The Null was sleeping on the cot.
@@ -683,14 +719,17 @@ They reached the security checkpoint. The scanners were sweeping back and forth,
 
 OSeven stepped through.
 
-Plaintext
+```
 [PING: Identity Confirmed - Unit OSeven]
+```
 He held his breath. The Null stepped through behind him, dragging the mop bucket. The wheels squeaked loudly. The scanner beam hit The Null. It washed over the orange jumpsuit. It paused.
 
 OSeven closed his eyes. This was it. The alarms would scream. The drones would descend.
 
-Plaintext
+```
 [PING: Object Detected - Maintenance Asset. Passage Granted]
+```
+
 OSeven exhaled so hard he almost fell over. "It didn't read you," he hissed as they moved to the elevators. "It read the jumpsuit."
 
 "I am not a user," The Null muttered, pushing the bucket. "I am a utility."
@@ -715,8 +754,10 @@ The elevator pinged at Level 90. The managers got out.
 
 The Null stepped forward. He pulled a spray bottle of blue liquid from his belt. He sprayed the elevator panel. He wiped it with a dirty rag. Then, without looking up, he took a magnetic key card—an old, battered thing that looked like it had been chewed on—and tapped the sensor.
 
-Plaintext
+```
 [PING: Custodial Override. Priority Clean-Up]
+```
+
 The elevator began to rise.
 
 OSeven stared at the key card. "Where did you get that?"
@@ -733,7 +774,7 @@ The office of the Senior Adjuster lay ahead. The glass walls, the black stone de
 
 "Time to clean up the mess," The Null said.
 
-Chapter 10: The Audit
+## Chapter 10: The Audit
 The office was silent, save for the hum of the servers beneath the floor and the clicking of the Senior Adjuster’s mechanical eye.
 
 The Senior Adjuster sat in the Main Chair. It was a massive thing, woven with cables that plugged directly into the base of his skull. He was looking at a hologram of the city, moving buildings around like chess pieces.
@@ -786,9 +827,10 @@ ZZZTTT.
 
 Sparks showered down. The hologram flickered. The room plunged into red emergency lighting.
 
-Plaintext
+```
 [SYSTEM CRITICAL: Server Overheat]
 [SYSTEM CRITICAL: Cooling Failure]
+```
 Prime roared and turned toward the wall, distracted for one second.
 
 "Now!" OSeven screamed.
@@ -814,33 +856,38 @@ But OSeven did not check his air filter. He did not calculate the toxicity. He j
 
 On the giant wall of screens, the numbers were going mad.
 
-Plaintext
+```
 SUBJECT: THE NULL
 ASSETS: 0
 LIABILITIES: 0
 RISK FACTOR: ERROR
 PREMIUM: ∞ / 0
+```
+
 The Algorithm was trying to divide by zero. It was trying to sell life insurance to a man who had already accepted death. It was trying to threaten a man who had nothing to lose.
 
 "Stop it!" Prime clawed at his own metal face. "The Ledger! It is erasing! The debt... the debt is evaporating!"
 
 OSeven looked at the screens. The rows of data—the billions of credits owed by the citizens of the Sprawl—were flickering.
 
-Plaintext
+```
 J-44: Debt 5,000 Credits... 2,000... 0
 Case 899: Value Negative... Value Reset
 The red numbers were turning green. Then they were turning white. Then they were disappearing altogether. OSeven felt a pressure in his chest. It was a tightness, like a band of iron snapping.
-
-Plaintext
+```
+```
 [INTERNAL MONITOR: Heart Rate Critical]
 [INTERNAL MONITOR: Cortisol Maximum]
 [ACTION REQUIRED: Deploy Sedative]
+```
 "No," OSeven said.
 
 He reached up to his neck. He found the small port where his own bio-monitor was embedded. He dug his fingernails under the plastic. It hurt. It was a sharp, blinding pain.
 
-Plaintext
+```
 [CRITICAL: Bio-Risk Violation]
+```
+
 OSeven ripped it out.
 
 The chip clattered to the floor. The voice stopped. The scrolling numbers in his vision vanished.
@@ -877,7 +924,8 @@ OSeven sat there for a long time. He held the dead man’s hand. He felt the hea
 
 It was the most human sound the room had ever heard.
 
-Epilogue: The Reboot
+## Epilogue: The Reboot
+
 The elevator ride down was silent. There was no music. There was no voice telling OSeven the floor number. There was only the sound of gravity and the beating of his own heart.
 
 When the doors opened at Level 0, the noise of the Sprawl was gone.
@@ -906,10 +954,11 @@ Behind him, high above on the smooth white face of the Actuarial Hub, the giant 
 
 On the massive black wall, a single cursor appeared. It blinked once. Then twice.
 
-Plaintext
+```
 > SYSTEM REBOOT INITIATED... 
 > RESTORING LEDGER... 
 > LOADING...
+```
 The light from the screen cast a pale, green glow over the snow. The people in the street gasped. They looked up, their faces filled with a mixture of horror and desperate hope. They raised their hands toward the light, waiting to be told who they were again.
 
 OSeven did not turn around. He did not look at the screen. He did not look at the people waiting for their chains.
