@@ -68,9 +68,7 @@ Just as he finished his last bite, his screen did something it had never done be
 
 A single line of white text appeared in the center:
 
-```text
-REPORT TO LEVEL 99.
-'''text
+```REPORT TO LEVEL 99.```
 
 The other Adjusters stopped chewing. They looked at OSeven. To go to Level 99 was rare. It meant you were in trouble, or you were about to be given a task that the Algorithm could not solve itself.
 
