@@ -846,7 +846,7 @@ The Null looked at OSeven one last time. He didn't look like a statistic. He loo
 
 He jammed the live cables directly into his temples.
 
-Chapter 11: The Undefined Variable
+## Chapter 11: The Undefined Variable
 The sound was not a scream. It was a hum—a deep, resonant vibration that shook the teeth in OSeven’s skull.
 
 The Null arched backward in the chair. The cables sparked where they touched his temples, fusing skin to copper. The smell of ozone and burning meat filled the air. It was a terrible smell. It was the smell of a "Catastrophic Event."
